@@ -135,3 +135,5 @@ Link for WandB report: https://wandb.ai/cs6910krsrd/CS6910%20ASSIGNMENT%204/repo
 Link for Contrastive Divergence Assignment 4.ipynb Colab NB : https://colab.research.google.com/drive/14VbiJQE42JL9ChvGpXHBoz6VIJxeMhmi?usp=sharing
 
 Link for Block Gibbs Sampling Assignment 4.ipynb Colab NB : https://colab.research.google.com/drive/1i7kzVAFaCLjMMEvdWiSAK_Md00EndrdB?usp=sharing
+
+Assignment Problem Statement : https://wandb.ai/miteshk/assignments/reports/Assignment-4--Vmlldzo2NDUwNzE
